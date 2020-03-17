@@ -2,6 +2,8 @@ image: gitpod/workspace-mysql
 ports:
 - port: 8001
   onOpen: open-preview
+- port: 3306
+  onOpen: ignore
 tasks:
 - name: Apache
   command: >
