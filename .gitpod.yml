@@ -13,7 +13,7 @@ tasks:
     unzip phpMyAdmin-5.0.1-all-languages.zip -d public ;
     mv public/phpMyAdmin-5.0.1-all-languages/ public/phpmyadmin ;
     cp public/phpmyadmin/config.sample.inc.php public/phpmyadmin/config.inc.php ;
-    sed -ri 's/(AllowNoPassword.*)(false)(;)/\1true\2/i' public/phpmyadmin/config.inc.php ;
+    sed -ri 's/(AllowNoPassword.*)false(;)/\1true\2/i' public/phpmyadmin/config.inc.php ;
     touch /tmp/terminado
   command: >
     clear;
