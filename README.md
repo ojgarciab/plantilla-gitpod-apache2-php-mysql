@@ -1,4 +1,4 @@
-# Datos de la plantilla [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ojgarciab/plantilla-gitpod-apache2-php)
+# Datos de la plantilla [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ojgarciab/plantilla-gitpod-apache2-php-mysql)
 
 En esta plantilla disponemos de:
 
